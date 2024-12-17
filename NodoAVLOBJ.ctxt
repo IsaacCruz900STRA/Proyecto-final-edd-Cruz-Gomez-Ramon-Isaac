@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoAVLOBJ
+comment1.params=objeto
+comment1.target=NodoAVLOBJ(Cliente)
+comment2.params=
+comment2.target=Cliente\ getCliente()
+comment3.params=objeto
+comment3.target=void\ setCliente(Cliente)
+comment4.params=
+comment4.target=int\ getAltura()
+comment5.params=altura
+comment5.target=void\ setAltura(int)
+comment6.params=
+comment6.target=NodoAVLOBJ\ getIzq()
+comment7.params=nuevo
+comment7.target=void\ setIzq(NodoAVLOBJ)
+comment8.params=
+comment8.target=NodoAVLOBJ\ getDer()
+comment9.params=nuevo
+comment9.target=void\ setDer(NodoAVLOBJ)
+numComments=10
